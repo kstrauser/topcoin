@@ -11,6 +11,7 @@
 #include "ui_interface.h"
 #include "base58.h"
 #include "main.h"
+#include <boost/algorithm/string.hpp>
 
 using namespace std;
 
